@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/85664936?v=4"  width="500" height="500"/>
+  <img border-radius: 15px src="Karnan.jpg"  width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="WhiteDevil" src="https://img.shields.io/badge/WhiteDevil-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Karnan" src="https://img.shields.io/badge/Karnan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <!---------- Typing SVG ---------->
 <p align="center">
     <a href="https://avatars.githubusercontent.com/u/85664936?v=4">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=31&width=30000&lines=Welcome+To+WhiteDevil+BOT+codded+by+Karthik_terror-boy..."
+            src="https://readme-typing-svg.herokuapp.com?size=31&width=30000&lines=Welcome+To+Karnan+BOT+codded+by+TheBlackLion17..."
             alt="Typing SVG"
         />
     </a>
@@ -23,11 +23,11 @@
 
 
   <p align="center">
-<a href="https://github.com/terror-boy"><img title="Author" src="https://img.shields.io/badge/Author-Karthik_terror-boy/WhiteDevil?color=white&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/TheBlackLion17"><img title="Author" src="https://img.shields.io/badge/Author-TheBlackLion17/Karnan?color=white&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a> to make it public
+Project created by <a href="https://github.com/TheBlackLion17">TheBlackLion17</a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,18 +37,18 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 ----
 
   <p align="center">
-  <a href="httsp://github.com/terror-boy/WhiteDevil">
-    <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/TheBlackLion17/Karnan">
+    <img src="https://img.shields.io/github/repo-size/TheBlackLion17/Karnan?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TheBlackLion17/followers"><img title="Followers" src="https://img.shields.io/github/followers/TheBlackLion17?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheBlackLion17/Karnan/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TheBlackLion17/Karnan?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheBlackLion17/Karnan/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TheBlackLion17/Karnan?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheBlackLion17/Karnan/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TheBlackLion17/Karnan?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
   #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/TheBlackLion17/count.svg)
 
 ## 📢 Guide
   
@@ -57,10 +57,10 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 **Click WA logo to Join Support Group 👇👇**[**PASSWORD IN IT**]
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/KDT4Q5F4zq99ubruR5T9k1)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terror-boy&repo=WhiteDevil&theme=nightowl)](https://github.com/terror-boy/WhiteDevil)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheBlackLion17&repo=Karnan&theme=nightowl)](https://github.com/TheBlackLion17/Karnan)
   </div>
     
 # Setup
@@ -111,7 +111,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 ``` 
 <div align="center">
   
-[![SETUP](https://www.linkpicture.com/q/WHITEDEVIL-SITE.png)](https://whitedevil-bot.yolasite.com)
+[![SETUP](https://www.linkpicture.com/q/Karnan-SITE.png)](https://Karnan-bot.yolasite.com)
   
      
     
@@ -132,7 +132,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
     
 ### 📃 How Can I Download the Bot Script?
 
-You Can **[Click Here](https://github.com/terror-boy/WhiteDevil/archive/refs/heads/Terror-boy.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.** 
+You Can **[Click Here](https://github.com/TheBlackLion17/Karnan/archive/refs/heads/TheBlackLion17.zip)** To Download The **Bot Script**.. This Script is Free, So **Don't Sell This Script in High Price.** 
         
             
  ### F.A.Q
@@ -160,7 +160,7 @@ If you are concerned about security, you can install it on your own computer. If
     
 ### ❗ Does our number will banned from WhatsApp by Using This Bot?
 
-If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This Warning](https://github.com/terror-boy/WhiteDevil#-warning-)**
+If you are concerned about that, Then you can just use bot on a [Fake Number](https://youtu.be/v8lGcQp0RjQ). **[Also Read This Warning](https://github.com/TheBlackLion17/Karnan#-warning-)**
 
 ### 🔄 Can I Edit this bot?
 
@@ -172,7 +172,7 @@ If you are concerned about that, Then you can just use bot on a [Fake Number](ht
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-WhiteDevil or we are not responsible for your account, 
+Karnan or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -184,15 +184,15 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![KARTHIK_TERROR-BOY/KARTHIK](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://wa.me/message/7UBLBAJZHISYH1)**
+**[![TheBlackLion17/Ak Karma](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://wa.me/message/7UBLBAJZHISYH1)**
     
 ## **Developers & Supporters**
           
   <div align="center">
     
-  [![Karthik_terror-boy](https://github.com/terror-boy.png?size=200)](https://github.com/terror-boy) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=200)](https://github.com/farhan-dqz) |  [![saidali](https://github.com/saidalisaid2.png?size=200)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=200)](https://github.com/afnanplk) 
+  [![TheBlackLion17](https://github.com/TheBlackLion17.png?size=200)](https://github.com/TheBlackLion17) | [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=200)](https://github.com/farhan-dqz) |  [![saidali](https://github.com/saidalisaid2.png?size=200)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=200)](https://github.com/afnanplk) 
 ----|----|----|----
-[Karthik_terror-boy](https://github.com/terror-boy)  | [farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
+[TheBlackLion17](https://github.com/TheBlackLion17)  | [farhan-dqz](https://github.com/farhan-dqz)  | [saidali](https://github.com/saidalisaid2) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Base, Bug Fixes, Modules | Base, Bug Fixes, Modules 
   </div>
     
